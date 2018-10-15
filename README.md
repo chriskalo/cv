@@ -6,18 +6,24 @@
 ## E-mail : christodouloskalogiannes@gmail.com
 ## Τόπος κατωγωγής : Θεσσαλονίκη
 
-## Σπουδές : Ιόνιο Πανεπιστήμιο
+## Σπουδές : Ιόνιο Πανεπιστήμιο τμήμα πληροφορικής
 
 
 
 
-- Bulleted χομποι
-- List
+ ## Χόμπυ :
+ 
+ # Αθλητισμό :
+- Ποδόσφαιρο
+- Πίνκ πόνκ
+- Μπάσκετ
 
-1. Numbered
-2. List
+## Μουσική :
+- Κιθάρα
 
-**Bold** and _Italic_ and `Code` text
+## Facebook Page :
 
-[Link](url) and ![Image](src)
+[Link](https://el-gr.facebook.com/xristodoulos.kalogiannis) and 
+
+![Image](src)
 ```
