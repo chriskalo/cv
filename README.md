@@ -1,18 +1,14 @@
-### Το Βιογραφικό μου
+# Το Βιογραφικό μου
 
 ## Όνομα : Χριστόδουλος
-## Επίθετο Καλογιάννης
+## Επίθετο : Καλογιάννης
+## Ημερομηνία Γέννησης : 14/5/1999
+## E-mail : christodouloskalogiannes@gmail.com
+## Τόπος κατωγωγής : Θεσσαλονίκη
 
-### Markdown
+## Σπουδές : Ιόνιο Πανεπιστήμιο
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
