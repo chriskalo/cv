@@ -23,7 +23,7 @@
 
 ## Facebook Page :
 
-[Link](https://el-gr.facebook.com/xristodoulos.kalogiannis) and 
+[Link](https://el-gr.facebook.com/xristodoulos.kalogiannis) 
 
 ![Image](src)
 ```
